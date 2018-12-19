@@ -2,6 +2,8 @@
 
 class Player
 {
-private:
-string name;
+	public:
+		Player();
+	private:
+		string name;
 }
